@@ -1,24 +1,24 @@
-# PasarKu - Aplikasi Belanja Sayuran dan Buah
+# PasarKu - Vegetable and Fruit Shopping App
 
-Aplikasi ini dirancang untuk membantu pengguna dalam membeli sayuran dan buah secara online dan mudah. 
+This application is designed to assist users in buying vegetables and fruits online easily.
 
-## Fitur
+## Features
 
-1. Pilihan beragam sayuran dan buah.
-2. Penentuan jumlah pembelian.
-3. Ringkasan harga dan item pada halaman checkout.
+1. Wide selection of vegetables and fruits.
+2. Quantity selection for each purchase.
+3. Summary of prices and items on the checkout page.
 
-## Instalasi
+## Installation
 
-Anda dapat menginstal aplikasi PasarKu dengan mengunduh file APK yang tersedia di repo ini.
+You can install the PasarKu application by downloading the APK file available in this repository.
 
-Berikut adalah langkah-langkah untuk mengunduh dan menginstal:
+Follow these steps to download and install:
 
-1. Klik [disini](https://github.com/izzuddinafif/PasarKu/releases/download/v1.0.0/PasarKu.apk) untuk mengunduh file APK PasarKu.
-2. Setelah file APK diunduh, buka dan instal file tersebut pada perangkat Android Anda. Anda mungkin perlu mengaktifkan instalasi dari "Sumber Tidak Dikenal" dalam pengaturan keamanan perangkat Anda.
-3. Setelah instalasi selesai, Anda dapat membuka dan menggunakan aplikasi PasarKu.
-4. Kredensial loginnya: username: admin, password: 1234
+1. Click [here](https://github.com/izzuddinafif/PasarKu/releases/download/v1.0.0/PasarKu.apk) to download the PasarKu APK file.
+2. Once the APK file is downloaded, open and install the file on your Android device. You may need to enable installation from "Unknown Sources" in your device's security settings.
+3. After the installation is complete, you can open and use the PasarKu application.
+4. Login credentials: username: admin, password: 1234
 
-## Lisensi
+## License
 
-Aplikasi ini dilisensikan di bawah MIT License. Lihat [LICENSE.txt](https://github.com/izzuddinafif/PasarKu/blob/master/LICENSE.txt) untuk detail lebih lanjut.
+This application is licensed under the MIT License. See [LICENSE.txt](https://github.com/izzuddinafif/PasarKu/blob/master/LICENSE.txt) for more details.
