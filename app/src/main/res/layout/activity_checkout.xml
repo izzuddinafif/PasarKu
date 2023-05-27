@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- Header -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="25dp"
+            android:layout_marginBottom="25dp">
+
+            <!-- Menu -->
+            <TextView
+                android:id="@+id/textViewAppName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="PasarKu"
+                android:textSize="40sp"
+                android:textStyle="bold"
+                android:layout_marginEnd="50dp" />
+
+            <TextView
+                android:id="@+id/textViewSayuran"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="24dp"
+                android:text="Sayuran"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewBuah"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="24dp"
+                android:text="Buah"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+
+        <!-- Konten -->
+        <TextView
+            android:id="@+id/textViewCheckout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Checkout"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Item yang dibeli -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginBottom="16dp">
+
+            <TextView
+                android:id="@+id/textViewApel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Apel"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/textViewQuantityApel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Quantity: 2"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/textViewHargaApel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rp. 10.000"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginBottom="16dp">
+
+            <TextView
+                android:id="@+id/textViewJeruk"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Jeruk"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/textViewQuantityJeruk"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Quantity: 1"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/textViewHargaJeruk"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rp. 4.000"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+        <!-- Item tambahan -->
+        <!-- Wortel -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginBottom="16dp">
+
+            <TextView
+                android:id="@+id/textViewWortel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Wortel"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/textViewQuantityWortel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Quantity: 2"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/textViewHargaWortel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rp. 5.000"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+        <!-- Brokoli -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginBottom="16dp">
+
+            <TextView
+                android:id="@+id/textViewBrokoli"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Brokoli"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/textViewQuantityBrokoli"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Quantity: 1"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/textViewHargaBrokoli"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rp. 7.000"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+        <!-- Total Harga -->
+        <TextView
+            android:id="@+id/textViewTotal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Total: Rp. 14.000"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Tombol Bayar -->
+        <Button
+            android:id="@+id/buttonBayar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#E45133"
+            android:text="Bayar"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+</ScrollView>
