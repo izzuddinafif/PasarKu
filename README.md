@@ -1,24 +1,32 @@
-# PasarKu - Vegetable and Fruit Shopping App
+# Simple Market App
 
-This application is designed to assist users in buying vegetables and fruits online easily.
+This is a simple market application consisting of 4 pages: Login, Vegetables, Fruits, and Checkout.
 
-## Features
+## Description
 
-1. Wide selection of vegetables and fruits.
-2. Quantity selection for each purchase.
-3. Summary of prices and items on the checkout page.
+The application allows users to browse and purchase vegetables and fruits from the comfort of their own homes. Users can log in with their credentials, view available vegetables and fruits, add them to their cart, and proceed to checkout.
+
+## Pages
+
+1. **Login**: Users can log in using their username and password.
+2. **Vegetables**: Users can browse and select various vegetables available for purchase.
+3. **Fruits**: Users can explore a variety of fresh fruits and add them to their cart.
+4. **Checkout**: Users can review their selected items, view the total price, and proceed with the payment.
 
 ## Installation
 
-You can install the PasarKu application by downloading the APK file available in this repository.
+1. Download the APK file from the provided link.
+2. Enable installation from "Unknown Sources" in your device settings.
+3. Open the APK file and follow the on-screen instructions to install the application.
+4. Launch the application and start shopping!
 
-Follow these steps to download and install:
+## Login Credentials
 
-1. Click [here](https://github.com/izzuddinafif/PasarKu/releases/download/v1.0.0/PasarKu.apk) to download the PasarKu APK file.
-2. Once the APK file is downloaded, open and install the file on your Android device. You may need to enable installation from "Unknown Sources" in your device's security settings.
-3. After the installation is complete, you can open and use the PasarKu application.
-4. Login credentials: username: admin, password: 1234
+Use the following credentials to log in:
+
+- Username: admin
+- Password: 1234
 
 ## License
 
-This application is licensed under the MIT License. See [LICENSE.txt](https://github.com/izzuddinafif/PasarKu/blob/master/LICENSE.txt) for more details.
+This application is licensed under the MIT License. See [LICENSE.txt](https://github.com/izzuddinafif/PasarKu/blob/master/LICENSE.txt) for more information.
