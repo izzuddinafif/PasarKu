@@ -15,7 +15,7 @@ The application allows users to browse and purchase vegetables and fruits from t
 
 ## Installation
 
-1. Download the APK file from the provided link.
+1. Download the APK file from the provided [link](https://github.com/izzuddinafif/PasarKu/releases/download/v1.0.0/PasarKu.apk).
 2. Enable installation from "Unknown Sources" in your device settings.
 3. Open the APK file and follow the on-screen instructions to install the application.
 4. Launch the application and start shopping!
