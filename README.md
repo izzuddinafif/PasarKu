@@ -20,4 +20,4 @@ Berikut adalah langkah-langkah untuk mengunduh dan menginstal:
 
 ## Lisensi
 
-Aplikasi ini dilisensikan di bawah MIT License. Lihat [LICENSE.txt](https://github.com/izzuddinafif/PasarKu/blob/main/LICENSE.txt) untuk detail lebih lanjut.
+Aplikasi ini dilisensikan di bawah MIT License. Lihat [LICENSE.txt](https://github.com/izzuddinafif/PasarKu/blob/LICENSE.txt) untuk detail lebih lanjut.
