@@ -14,7 +14,7 @@ Anda dapat menginstal aplikasi PasarKu dengan mengunduh file APK yang tersedia d
 
 Berikut adalah langkah-langkah untuk mengunduh dan menginstal:
 
-1. Klik [disini](https://github.com/izzuddinafif/PasarKu/PasarKu.apk) untuk mengunduh file APK PasarKu (gantikan `username` dengan username GitHub Anda dan sesuaikan URL jika diperlukan).
+1. Klik [disini](https://github.com/izzuddinafif/PasarKu/PasarKu.apk) untuk mengunduh file APK PasarKu.
 2. Setelah file APK diunduh, buka dan instal file tersebut pada perangkat Android Anda. Anda mungkin perlu mengaktifkan instalasi dari "Sumber Tidak Dikenal" dalam pengaturan keamanan perangkat Anda.
 3. Setelah instalasi selesai, Anda dapat membuka dan menggunakan aplikasi PasarKu.
 
