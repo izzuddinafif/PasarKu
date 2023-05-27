@@ -17,6 +17,7 @@ Berikut adalah langkah-langkah untuk mengunduh dan menginstal:
 1. Klik [disini](https://github.com/izzuddinafif/PasarKu/releases/download/v1.0.0/PasarKu.apk) untuk mengunduh file APK PasarKu.
 2. Setelah file APK diunduh, buka dan instal file tersebut pada perangkat Android Anda. Anda mungkin perlu mengaktifkan instalasi dari "Sumber Tidak Dikenal" dalam pengaturan keamanan perangkat Anda.
 3. Setelah instalasi selesai, Anda dapat membuka dan menggunakan aplikasi PasarKu.
+4. Kredensial loginnya: username: admin, password: 1234
 
 ## Lisensi
 
